@@ -8,7 +8,7 @@ Componente actualizado version GLR
 ## Instalación
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @fecori/article-body-glr
 ```
 
 ## Uso
