@@ -1,6 +1,6 @@
 {
-  "name": "article-body-glr",
-  "version": "1.0.3",
+  "name": "@fecori/article-body-glr",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
