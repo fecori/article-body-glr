@@ -1,26 +1,18 @@
-# @bamblehorse/tiny
+# @fecori/article-body-glr
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@fecori/article-body-glr.svg)](https://www.npmjs.com/package/@fecori/article-body-glr)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@fecori/article-body-glr.svg)](https://www.npmjs.com/package/@fecori/article-body-glr)
 
-Removes all spaces from a string.
+Componente actualizado version GLR
 
-## Install
+## Instalación
 
 ```
 $ npm install @bamblehorse/tiny
 ```
 
-## Usage
+## Uso
 
 ```js
-const tiny = require("@bamblehorse/tiny");
-
-tiny("So much space!");
-//=> "Somuchspace!"
-
-tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
-//    at <anonymous>:1:1
+//como se usa
 ```
